@@ -4,4 +4,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreiAK-42&theme=solarized_dark)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![csharp](https://github.com/user-attachments/assets/27ca0aea-f353-436e-9f98-54cd1355ee2c)
+![csharp_dotnet](https://github.com/user-attachments/assets/416fcaf6-55f2-4e20-afea-4e6ec9b67dae)
+![python](https://github.com/user-attachments/assets/c301ad1a-f723-4d84-a2d6-08d27a400e23)
+![wpf](https://github.com/user-attachments/assets/ec78c5cb-f406-4a6f-b8e8-faaa99caa8af)
+![jetbrains_intellij](https://github.com/user-attachments/assets/35785250-009c-45a7-9519-28cb571121c5)
